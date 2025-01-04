@@ -24,12 +24,12 @@ Bayesian MCMC covariate selection with non-homogeneous HMM’s. Obtaining
 posterior inclusion results, diagnostics measures.
 # 06_HMM_rolling_forecast: 
 specifying the benchmarks sets. Defining the
-bootstrapped rolling windows forecasting procedure for a given forecast
+bootstrapped rolling windows forecasting procedure with a homogeneous HMM for a given forecast
 horizon. Obtaining accuraccy metrics. Plots - Actual vs. Forecasted
 values, dynamic rolled coefficients over time, dynamic MAPE over time.
 # 07_NH_HMM_rolling_forecast: 
 specifying the benchmarks sets. Defining
-the bootstrapped rolling windows forecasting procedure for a given
+the bootstrapped rolling windows forecasting procedure with a non-homogeneous HMM for a given
 forecast horizon. Obtaining accuraccy metrics.
 ## -----------
 # 
